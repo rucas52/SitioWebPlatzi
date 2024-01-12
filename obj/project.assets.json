@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ruth\\TecnoGestion\\Platzi\\FuentesWebApps\\PlatziWebAppMvc\\PlatziWebAppMvc.csproj",
+      "projectUniqueName": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebAppMvc.csproj",
       "projectName": "PlatziWebAppMvc",
-      "projectPath": "D:\\ruth\\TecnoGestion\\Platzi\\FuentesWebApps\\PlatziWebAppMvc\\PlatziWebAppMvc.csproj",
+      "projectPath": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebAppMvc.csproj",
       "packagesPath": "C:\\Users\\Ruth\\.nuget\\packages\\",
-      "outputPath": "D:\\ruth\\TecnoGestion\\Platzi\\FuentesWebApps\\PlatziWebAppMvc\\obj\\",
+      "outputPath": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps\\SitioWebPlatzi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
